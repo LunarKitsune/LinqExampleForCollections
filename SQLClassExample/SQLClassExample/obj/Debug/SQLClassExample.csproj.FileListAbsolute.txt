@@ -1,0 +1,12 @@
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\bin\Debug\Northwind(2).mdf
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\bin\Debug\Northwind(2)_log.ldf
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\bin\Debug\SQLClassExample.exe.config
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\bin\Debug\SQLClassExample.exe
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\bin\Debug\SQLClassExample.pdb
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.csprojAssemblyReference.cache
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.Form1.resources
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.Properties.Resources.resources
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.csproj.GenerateResource.cache
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.csproj.CoreCompileInputs.cache
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.exe
+C:\Users\kmacneal\source\repos\SQLClassExample\SQLClassExample\obj\Debug\SQLClassExample.pdb
